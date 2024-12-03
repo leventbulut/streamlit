@@ -1,8 +1,7 @@
-pandas
 streamlit
+pandas
 seaborn
 matplotlib
 plotly
 numpy
-statsmodels.api
-
+statsmodels
